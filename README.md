@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ljohnson521
+- 👋 Hi, I’m Lamart
 - 👀 I’m interested in learning how to be a good JS/React developer
 - 🌱 I’m currently learning js at Sabio
 - 💞️ I’m looking to collaborate on open
