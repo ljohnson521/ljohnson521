@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lamart
 - 👀 I’m interested in learning how to be a good JS/React developer
 - 🌱 I’m currently learning js at Sabio
-- 💞️ I’m looking to collaborate on open
+- 💞️ I’m looking to collaborate on anything that I can learn from
 - 📫 How to reach me ljohnson521@gmail.com
 
 <!---
