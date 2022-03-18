@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lamart
-- 👀 I’m interested in learning how to be a good JS/React developer
-- 🌱 I’m currently learning js at Sabio
+- 👀 I’m interested in all things Software developement
+- 🌱 I’m currently developing software at Rosehips
 - 💞️ I’m looking to collaborate on anything that I can learn from
 - 📫 How to reach me ljohnson521@gmail.com
 
