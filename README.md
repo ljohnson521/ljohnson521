@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lamart
 - 👀 I’m interested in all things Software developement
-- 🌱 I’m currently developing software at Rosehips
+- 🌱 I’m currently working at Rosehips
 - 💞️ I’m looking to collaborate on anything that I can learn from
 - 📫 How to reach me ljohnson521@gmail.com
 
